@@ -21,6 +21,8 @@
 
 - 📫 How to reach me **brunobarella@gmail.com** <a href="brunobarella@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="brunobarella" /></a> or **+55 (64) 9 8141-4488**  <a href="https://api.whatsapp.com/send/?phone=5564981414488&text=Ol%C3%A1%2C+td+bem%3F&app_absent=0" target="blank"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="brunobarella" /></a>
 
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
 ### Spotify Playing 🎧
 
 [<img src="https://spotify-now-playing.brunobarella.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/2e0582895fdb404bb0d2163d93ca7366)
@@ -50,5 +52,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=brunobarella&show_icons=true&theme=dark&text_color=ffffff&locale=en&layout=compact" alt="brunobarella" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brunobarella&show_icons=true&locale=en" alt="brunobarella" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brunobarella&show_icons=true&locale=en&theme=gotham" alt="brunobarella" /></p>
 
