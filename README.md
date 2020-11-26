@@ -9,21 +9,25 @@
 
 - 🔭 I’m currently working on **MVP for recommendation and productivity forecast in the agricultural sector**
 
-- 🌱 I’m currently learning **SHAP, Pycaret and always about ML**
+- 🌱 I’m currently learning **SHAP, Pycaret and always about ML** <a href="https://www.python.org/" target="blank"><img align="center" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="brunobarella" /></a>
 
 - 👯 I’m looking to collaborate on **Development of models for predicting failure in mechanical structures**
 
 - 👨‍💻 All of my projects are available at [brunobarella.com.br](brunobarella.com.br)
 
-- 📝 I regulary write articles on [medium.com/@brunobarella](medium.com/@brunobarella)
+- 📝 I regulary write articles on [medium.com/@brunobarella](medium.com/@brunobarella) <a href="medium.com/@brunobarella" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="brunobarella" /></a>
 
 - 💬 Ask me about **Python, ML, Scientific Production,...**
 
-- 📫 How to reach me **brunobarella@gmail.com**
+- 📫 How to reach me **brunobarella@gmail.com** <a href="brunobarella@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="brunobarella" /></a> or **+55 (64) 9 8141-4488**  <a href="https://api.whatsapp.com/send/?phone=5564981414488&text=Ol%C3%A1%2C+td+bem%3F&app_absent=0" target="blank"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="brunobarella" /></a>
 
 ### Spotify Playing 🎧
 
 [<img src="https://spotify-now-playing.brunobarella.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/2e0582895fdb404bb0d2163d93ca7366)
+
+### Workstation
+<a href="https://ubuntu.com/" target="blank"><img align="center" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="brunobarella" /></a>
+<a href="https://www.microsoft.com/pt-br/software-download/home" target="blank"><img align="center" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="brunobarella" /></a>
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
