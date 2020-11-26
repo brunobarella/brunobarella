@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **brunobarella@gmail.com** <a href="brunobarella@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="brunobarella" /></a> or **+55 (64) 9 8141-4488**  <a href="https://api.whatsapp.com/send/?phone=5564981414488&text=Ol%C3%A1%2C+td+bem%3F&app_absent=0" target="blank"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="brunobarella" /></a>
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/brunobarella/brunobarella/blob/master/code.gif?raw=true" width="480" height="300" />
 
 ### Spotify Playing 🎧
 
