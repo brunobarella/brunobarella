@@ -21,6 +21,10 @@
 
 - 📫 How to reach me **brunobarella@gmail.com**
 
+### Spotify Playing 🎧
+
+[<img src="https://spotify-now-playing.brunobarella.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/2e0582895fdb404bb0d2163d93ca7366)
+
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
