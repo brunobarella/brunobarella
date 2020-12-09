@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [brunobarella.com.br](brunobarella.com.br)
 
-- 📝 I regulary write articles on [medium.com/@brunobarella](medium.com/@brunobarella) <a href="medium.com/@brunobarella" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="brunobarella" /></a>
+- 📝 I regulary write articles on [medium.com/@brunobarella](https://brunobarella.medium.com/) <a href="medium.com/@brunobarella" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="brunobarella" /></a>
 
 - 💬 Ask me about **Python, ML, Scientific Production,...**
 
