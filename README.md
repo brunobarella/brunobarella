@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/brunobarella" target="blank"><img src="https://img.shields.io/twitter/follow/brunobarella?logo=twitter&style=for-the-badge" alt="brunobarella" /></a> </p>
 
-- 🔭 I’m currently working on **MVP for recommendation and productivity forecast in the agricultural sector**
+- 🔭 I’m currently working on **Martins as a data scientist in the retail area**
 
 - 🌱 I’m currently learning **SHAP, Pycaret and always about ML, DL and general AI/math modeling** <a href="https://www.python.org/" target="blank"><img align="center" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="brunobarella" /></a>
 
-- 👯 I’m looking for collaborate on **Development of models for predicting failure in mechanical structures**
+- 👯 I’m looking for collaborate on **Development of models for predicting failure in mechanical structures** and  **MVP for recommendation and productivity forecast in the agricultural sector**
 
 - 👨‍💻 All of my projects are available at [brunobarella.com.br](brunobarella.com.br)
 
