@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/brunobarella" target="blank"><img src="https://img.shields.io/twitter/follow/brunobarella?logo=twitter&style=for-the-badge" alt="brunobarella" /></a> </p>
 
-- 🔭 I’m currently working on **Martins as a data scientist in the retail area**
+- 🔭 I’m currently working on **Chiper as a data scientist in the retail area**
 
 - 🌱 I’m currently learning **SHAP, Pycaret and always about ML, DL and general AI/math modeling** <a href="https://www.python.org/" target="blank"><img align="center" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="brunobarella" /></a>
 
@@ -29,6 +29,7 @@
 
 ### Workstation
 <a href="https://ubuntu.com/" target="blank"><img align="center" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="brunobarella" /></a>
+
 <a href="https://www.microsoft.com/pt-br/software-download/home" target="blank"><img align="center" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="brunobarella" /></a>
 
 ### Blogs posts
